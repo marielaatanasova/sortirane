@@ -1,0 +1,6 @@
+E:\NP_ITMariela\Sort\sort\bin\Debug\sort.exe.config
+E:\NP_ITMariela\Sort\sort\bin\Debug\sort.exe
+E:\NP_ITMariela\Sort\sort\bin\Debug\sort.pdb
+E:\NP_ITMariela\Sort\sort\obj\Debug\sort.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\Sort\sort\obj\Debug\sort.exe
+E:\NP_ITMariela\Sort\sort\obj\Debug\sort.pdb
